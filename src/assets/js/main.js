@@ -2,7 +2,7 @@
 * ----------------------------------------------------------------------------------------
 Author       : OnepageBoss
 Template Name: VHINNO Material Design Personal vCard Resume Template
-Version      : 1.0                                                       
+Version      : 1.0
 * ----------------------------------------------------------------------------------------
 */
 
@@ -186,7 +186,9 @@ Version      : 1.0
             });
         });
 
-
+        lightbox.option({
+          'albumLabel': "Imagem %1 de %2"
+        })
 
     });
 
